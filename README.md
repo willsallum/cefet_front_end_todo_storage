@@ -162,10 +162,10 @@ incluir a classe `.minimizado` na `#marca` ou não.
 
    function fazAlgumaCoisa() {
 
-[local-storage]: https://fegemo.github.io/cefet-front-end/classes/js5/#local-storage
-[session-storage]: https://fegemo.github.io/cefet-front-end/classes/js5/#session-storage
-[formato-de-armazenamento]: https://fegemo.github.io/cefet-front-end/classes/js5/#formato-de-armazenamento
-[representando-objetos-em-strings]: https://fegemo.github.io/cefet-front-end/classes/js5/#representando-objetos-em-strings
-[o-formato-json]: https://fegemo.github.io/cefet-front-end/classes/js5/#o-formato-json
-[classes]: https://fegemo.github.io/cefet-front-end/classes/js2/#colocando-removendo-classes
-[seminal]: https://github.com/fegemo/cefet-front-end-todo/archive/refs/heads/main-webstorage.zip
+[local-storage]: https://willsallum.github.io/cefet_front_end/classes/js5/#local-storage
+[session-storage]: https://willsallum.github.io/cefet_front_end/classes/js5/#session-storage
+[formato-de-armazenamento]: https://willsallum.github.io/cefet_front_end/classes/js5/#formato-de-armazenamento
+[representando-objetos-em-strings]: https://willsallum.github.io/cefet_front_end/classes/js5/#representando-objetos-em-strings
+[o-formato-json]: https://willsallum.github.io/cefet_front_end/classes/js5/#o-formato-json
+[classes]: https://willsallum.github.io/cefet_front_end/classes/js2/#colocando-removendo-classes
+[seminal]: https://willsallum.github.io/cefet_front_end_todo_storage/archive/main.zip
